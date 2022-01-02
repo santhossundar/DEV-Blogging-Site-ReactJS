@@ -1,0 +1,8 @@
+{
+  "short_name": "DEV",
+  "name": "Web DEV Blog",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
